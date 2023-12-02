@@ -1,0 +1,3 @@
+right Click --> inspect --> Source 
+
+debuuggaing start bss ye hi bata abi tk

@@ -1,0 +1,13 @@
+let container =.gerelementbyid('container')
+
+function creatchild(){
+let div =document.createlement{div}
+div' classname ='test-div'
+
+let divtitle = document.createlement('h2')
+divtitel.classname =test-div-title'
+divitle'innertext =3876287638
+   
+
+let divbtnel = document,createlement(button)
+divbtnel,

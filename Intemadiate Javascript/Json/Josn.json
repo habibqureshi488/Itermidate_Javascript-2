@@ -1,0 +1,57 @@
+
+/*
+Fronted or Bakend ko connect krene k liyye
+
+Fronted se data bhjne k liyee 
+or bekend se data bjhne k liyyee
+
+
+Example
+
+
+Json 
+Javascript Object Notation / litral
+
+type
+ hr chiz double cotation m hogi
+ key value pair m data save hota h 
+ arrY BI HO SAKTA Ha is me
+
+ jitna nested jana ho ja skate h 
+ nested means lambi krna jinti lambi krni ho kr skte h
+
+
+
+
+
+
+|__________________________|  // Y Fronted h 
+
+        Button // IS ko click krne k bd rquest gai database m 
+
+
+
+        
+|__________________________|  // Y Bekend h 
+ye kare ga data jo aya h wo thik h ya nhi thik h tw respons kre ga fronted ko data wrong h tw Error de ga 
+
+
+  */ 
+
+  
+Example
+
+
+{
+    "name" : "Malika",
+    "age" : 50,
+    "profession" : "programmer",
+    "languages" : ["JavaScript", "C#", "Python"],
+    "address" : {
+    "street" : "Some street",
+    "number" : 123,
+    "zipcode" : "3850AA",
+    "city" : "Utrecht",
+    "country" : "The Netherlands"
+    }
+    }
